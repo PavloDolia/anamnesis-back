@@ -1,0 +1,5 @@
+.env
+.cursor
+.vscode
+dist
+node_modules
